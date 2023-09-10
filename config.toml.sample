@@ -1,0 +1,10 @@
+[elective]
+USERNAME = "1231@bzx"
+PASSWORD = "1231"
+
+[captcha]
+TT_USERNAME = "1231"
+TT_PASSWORD = "1231"
+
+[notifier]
+API_KEY = "1231"
